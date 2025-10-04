@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20/month",
+    "information": "Ideal for beginners or casual gym-goers. Access to gym equipment during off-peak hours.",
+    "features": [
+      "Access to cardio and strength equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "No personal training included"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40/month",
+    "information": "Perfect for regular members who want more flexibility and classes.",
+    "features": [
+      "24/7 gym access",
+      "Group fitness classes (yoga, spinning, HIIT)",
+      "Locker room + towel service",
+      "Access to sauna and steam room",
+      "One guest pass per month"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$70/month",
+    "information": "Designed for fitness enthusiasts who want full access and perks.",
+    "features": [
+      "All Standard Plan features",
+      "Unlimited personal training sessions",
+      "Nutrition consultation",
+      "Priority booking for classes",
+      "Access to VIP lounge"
+    ]
+  }
+]
